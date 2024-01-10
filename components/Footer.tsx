@@ -5,7 +5,7 @@ import React from 'react'
 export const Footer = () => {
   return (
     <footer className='flex flex-col md:flex-row md:justify-between items-center justify-center p-4 border-t border-willSand'>
-        <p className='mx-auto mb-2'>Alejandro Villanueva Lima, Perú</p>
+        <p className='mb-2'>Alejandro Villanueva Lima, Perú</p>
         <ul className='flex gap-5 justify-center'>
             <li className="cursor-pointer">
                 <a href="https://www.frontendmentor.io/profile/alejo9456" target='_blank'>
