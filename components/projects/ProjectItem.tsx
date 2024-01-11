@@ -33,7 +33,7 @@ export const ProjectItem: React.FC<ProjectItemProps> = ( { project }) => {
   };
 
     return (
-        <section className="hover:scale-105 grid grid-cols-2 gap-8 h-[350px] md:h-[300px] relative rounded-[2rem] bg-wildSand transition-colors duration-300 ease-in-out text-ebonyClay overflow-hidden z-10"
+        <section className="hover:scale-105 grid grid-cols-2 gap-8 relative rounded-[2rem] bg-wildSand transition-colors duration-300 ease-in-out text-ebonyClay overflow-hidden z-10"
             onMouseEnter={handleMouseEnter}
             onMouseLeave={handleMouseLeave}
         >   
