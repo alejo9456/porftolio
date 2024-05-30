@@ -22,7 +22,7 @@ import { ProjectItem } from './ProjectItem';
       image: 'img/proyecto-cm-unmsm.png',
       description: 'Este proyecto tuvo como objetivo visibilizar el liderazgo académico e investigativo de la Universidad NacionalMayor de San Marcos y estableció las bases para la estandarizacióny optimización de sus sitios web secundarios',
       url_github: '',
-      url_live_demo: 'https://sisbib.unmsm.edu.pe/',
+      url_live_demo: 'https://unmsm-cm.digitalbonds.link/auth/login',
       technologies: [
         "Angular",
         "TailwindCSS",
